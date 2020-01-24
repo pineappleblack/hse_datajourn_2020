@@ -15,5 +15,5 @@
 
 **Практика**<br>
 [Статистическая информация о концертных коллективах](/data/collectives.csv)<br>
-[Численность населения РФ по регионам](https://showdata.gks.ru/report/278928) + [Средние зарплаты по регионам](https://showdata.gks.ru/report/278928)
+[Численность населения РФ по регионам](https://showdata.gks.ru/report/278928) + [Средние зарплаты по регионам](https://showdata.gks.ru/report/278928)<br>
 [Номинанты на Оскар (по 2019 год)](/data/oscar_nominations_data.csv)<br>
