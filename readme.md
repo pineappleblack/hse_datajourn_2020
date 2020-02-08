@@ -27,7 +27,7 @@
 
 **Практика**<br>
 [Опросник](/data/messy_countries_and_various_data_types.xlsx)<br>
-[Участники конференции](/conf.xlsx)<br>
+[Участники конференции](data/conf.xlsx)<br>
 
 **Домашнее задание**<br>
 [Описание проекта](/homework/project_brief.md)<br>
