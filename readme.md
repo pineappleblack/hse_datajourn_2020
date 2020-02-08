@@ -20,3 +20,14 @@
 
 **Домашнее задание**<br>
 [Домашнее задание по работе в Excel](/homework/hw1.md)<br>
+
+## День 3
+**Лекция**<br>
+Как создать дата-историю: [[pdf]](/lections/lection_3.pdf)<br>
+
+**Практика**<br>
+[Опросник](/data/messy_countries_and_various_data_types.xlsx)<br>
+[Участники конференции](/conf.xlsx)<br>
+
+**Домашнее задание**<br>
+[Описание проекта](/homework/project_brief.md)<br>
