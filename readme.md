@@ -54,9 +54,6 @@
 
 ## День 6
 **Практика**<br>
-[Обучающие видео о том, как «скрейпить» сайты](https://www.webscraper.io/tutorials)<br>
-
-**Домашнее задание**<br>
 [Как люди выражают свой смех](https://github.com/the-pudding/data/tree/master/laugh)<br>
 [Номинанты на Оскар (по 2019 год)](/data/oscar_nominations_data.csv)<br>
 [Объявления об эскорт-услугах в Москве](/data/sex.csv)<br>
