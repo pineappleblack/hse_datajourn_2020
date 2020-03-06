@@ -60,3 +60,10 @@
 
 **Домашнее задание**<br>
 [Домашнее задание визуализации данных](/homework/hw4.md)<br>
+
+## День 7
+**Практика**<br>
+[Коды российских регионов для датавиз-программ](https://docs.google.com/spreadsheets/d/1x3de-2L522CPfC5G3g_BNnAiTXkdZuxzYi5x4HpdoA4/edit?usp=sharing)<br>
+[Подтвержённые случаи коронавируса](/data/time_series_19-covid-Confirmed.csv)<br>
+[Рейтинг российских регионов по аварийности на дорогах](https://ria.ru/20200224/1564977090.html)<br>
+[Рейтинг экологии в районах Москвы](https://www.novostroy-m.ru/ekologiya-v-moskve)<br>
