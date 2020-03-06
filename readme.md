@@ -67,3 +67,4 @@
 [Подтвержённые случаи коронавируса](/data/time_series_19-covid-Confirmed.csv)<br>
 [Рейтинг российских регионов по аварийности на дорогах](https://ria.ru/20200224/1564977090.html)<br>
 [Рейтинг экологии в районах Москвы](https://www.novostroy-m.ru/ekologiya-v-moskve)<br>
+[Данные о московском метро](/data/Moscow_subway_stations.csv)<br>
