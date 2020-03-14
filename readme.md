@@ -68,3 +68,10 @@
 [Рейтинг российских регионов по аварийности на дорогах](https://ria.ru/20200224/1564977090.html)<br>
 [Рейтинг экологии в районах Москвы](https://www.novostroy-m.ru/ekologiya-v-moskve)<br>
 [Данные о московском метро](/data/Moscow_subway_stations.csv)<br>
+
+## День 8
+**Лекция**<br>
+Машинное обучение в журналистике: [[pdf]](/lections/lection_5.pdf)<br>
+
+**Практика**<br>
+[Смерти от коронавируса (13.03.2020)](/data/time_series_19-covid-Deaths.csv)<br>
